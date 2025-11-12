@@ -17,6 +17,7 @@ minima:
 header_pages:
   - about.md
   - projects.md
+  - blog.md   # 👈 Blog-Seite hinzufügen
 
 # RSS-Feed-Link im Footer deaktivieren
 show_rss_feed: false
