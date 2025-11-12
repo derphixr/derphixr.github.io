@@ -5,11 +5,11 @@ permalink: /homebrew/
 ---
 
 # Crits
-Sowohl für Charaktere als auch Gegner gilt:
+Sowohl für Charaktere als auch Gegner gilt:<br>
 - Der Schaden wird normal gerollt.
 - Zusätzlich rollt man dieselbe Menge an Würfel erneut allerdings
--- Für melee attacks: -1 Würfel pro Feature, denn dieser eine wird mit dem Maximalwert berechnet.
--- Für caster: -X Würfel, wobei X die Hälfte der Würfel darstellt, die andere Hälfte (aufgerundet) wird mit dem Maximalwert berechnet.
+  - Für melee attacks: -1 Würfel pro Feature, denn dieser eine wird mit dem Maximalwert berechnet.
+  - Für caster: -X Würfel, wobei X die Hälfte der Würfel darstellt, die andere Hälfte (aufgerundet) wird mit dem Maximalwert berechnet.
 
 **Beispiele:**<br>
 **Rogue** lvl3 hat advantage, triggert dadurch Sneak attack und critted, also bspw. 1d6 + 3 (Waffe) + 2d6 für Sneak attack.<br>
