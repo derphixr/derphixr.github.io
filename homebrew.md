@@ -9,7 +9,7 @@ permalink: /homebrew/
 ### Attack Roll
 - Die Würfel werden doppelt gewürfelt, das höhere Ergebnis wird verdoppelt
 - Wenn ALLE Würfel das selbe Ergebnis aufweisen, werden ALLE Würfel verdoppelt.
-  - Beispiel: Rogue mit Sneakattack (1d8 + 2d6) würfelt 2d8 + 4d6 (1, 2, 2, 4, 5, 6) und wählt aus den 6 Würfeln jene drei mit den höchsten Werten (4, 5, 6) zum verdoppeln.<br>
+  - Beispiel: Rogue mit Sneakattack (1d8 + 2d6) würfelt 2d8 + 4d6 (1, 2, 2, 4, 5, 6) und wählt aus den 6 Würfeln jene drei mit den höchsten Werten (4, 5, 6) zum verdoppeln.
   
 ### Save:
 - Bei einem Critical Failure des Ziels kann der Angreifer beliebig viele der bereits gewürfelten Schadens-Würfel einmalig erneut würfeln.
