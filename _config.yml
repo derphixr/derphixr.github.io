@@ -1,3 +1,12 @@
-title: Mein Jekyll Test
+title: '<a href="{{ "/" | relative_url }}">Mein Jekyll Test</a>'
 description: "Meine erste Markdown-Seite via GitHub Pages + Jekyll"
 theme: jekyll-theme-chirpy
+
+# Navigationspunkte:
+nav:
+  - name: Start
+    link: /
+  - name: Über mich
+    link: /about
+  - name: Projekte
+    link: /projects
