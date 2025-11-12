@@ -6,4 +6,7 @@ permalink: /projects/
 
 # Projekte
 
-Hier kannst du deine Projekte vorstellen.
+Hier kannst du deine Projekte präsentieren.  
+Beispiel:
+- Projekt A
+- Projekt B
