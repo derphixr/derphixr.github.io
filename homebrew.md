@@ -23,3 +23,13 @@ Sofern Spells keine Materialkosten mit einem Goldwert voraussetzen, deckt der Sp
 
 # Potions
 Nutzt man eine Action um eine Potion zu verabreichen, erzielt sie das maximale Ergebnis. Bei einer Bonus Action wird gewürfelt.
+
+# Hit Dice
+### Short Rest:
+- Regeneriere eine Class Ability auf Short Rest 1:1
+- Regeneriere eine Class Ability auf Long Rest 2:1
+- Regeneriere einen Spellslot 2:1 (pro Level des Spellslots)
+
+### Combat:
+- **Limit Break**
+  - Brauche 1 Hit Die auf um dessen Ergebnis zu einem Würfelergebnis hinzuzufügen. (1x pro Long Rest) 
