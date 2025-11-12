@@ -15,17 +15,19 @@ Sowohl für Charaktere als auch Gegner gilt:<br>
   - Beispiel: Sorcerer casted Fireball und würfelt 8d6 (1, 2, 2, 2, 4, 4, 5, 6), das Ziel würfelt eine Nat1, somit kann der Sorcerer bspw. 1, 2, 2, 2 jeweils einmal rerollen.
 
 # Intimidation
-Für Intimidation kann anstelle des CHA auch der STR modifier genutzt werden.
+- Intimidation kann gleichermaßen mit CHA oder STR modifier ausgeführt werden.
 
 # HP rolls bei Level up
-Wenn der Spieler bei einem Level up einen Hit Die würfelt, würfelt der DM verdeckt ebensolchen auch, allerdings verdeckt.
-Der Spieler kann dann entscheiden, welchen Roll er nimmt, seinen eigenen oder den ihm unbekannten des DM.
+- Spieler und DM würfeln einen Hit Die der Klasse. Der Spieler offen, DM verdeckt.
+- Spieler kann sich für eines der beiden Ergebnisse entscheiden.
 
 # Materialkosten für Spells
-Sofern Spells keine Materialkosten mit einem Goldwert voraussetzen, deckt der Spell Focus die Materialkosten ab.
+- **Material component ohne Goldkosten:** Sofern ein Spellfocus genutzt wird, müssen die Komponenten nicht erbracht werden.
+- **Material component mit Goldkosten:** Materialkosten können entweder wie beschrieben oder in Gold bezahlt werden.
 
 # Potions
-Nutzt man eine Action um eine Potion zu verabreichen, erzielt sie das maximale Ergebnis. Bei einer Bonus Action wird gewürfelt.
+- **Action:** Potion erzielt das maximale Ergebnis.
+- **Bonus Action:** Potion Ergebnis wird gewürfelt.
 
 # Hit Dice
 ### Short Rest:
