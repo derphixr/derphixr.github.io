@@ -31,10 +31,18 @@ Sowohl für Charaktere als auch Gegner gilt:<br>
 
 # Hit Dice
 ### Short Rest:
-- Regeneriere eine Class Ability auf Short Rest 1:1
-- Regeneriere eine Class Ability auf Long Rest 2:1
-- Regeneriere einen Spellslot 2:1 (pro Level des Spellslots)
-
+- **Recharge:**
+  - Regeneriere eine Class Ability mit Cooldown Short Rest im Verhältnis 1:1 (Hit Die:Ability)
+  - Regeneriere eine Class Ability mit Cooldown Long Rest im Verhältnis 2:1 (Hit Die:Ability)
+  - Regeneriere einen Spellslot in dem folgenden Verhältnis:
+    - | Level    | Hit Die |
+      | -------- | ------- |
+      | Level 1  | 2       |
+      | Level 2  | 3       |
+      | Level 3  | 5       |
+      | Level 4  | 6       |
+      | Level 5  | 7       |
+      
 ### Combat:
 - **Limit Break**
   - Brauche 1 Hit Die auf um dessen Ergebnis zu einem Würfelergebnis hinzuzufügen. (1x pro Long Rest) 
