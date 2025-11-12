@@ -1,22 +1,22 @@
-title: Mein Jekyll Test
-author: Dein Name
-email: dein.name@example.com
-description: >-
-  Eine einfache Jekyll-Seite mit dem Minima-Theme.
-
+# Verwende das aktuelle Minima-Theme direkt per Remote Theme
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag   # optional, für schöne Meta-Daten (Feed deaktiviert)
 
-# Aktiviert Navigation + Dark Mode (ab Minima v3)
+title: Mein Jekyll Test
+author: Dein Name
+description: "Meine Jekyll-Seite mit Minima Dark Theme."
+
+# Minima-Einstellungen
 minima:
-  skin: dark  # möglich: auto, classic, dark, solarized
-  social_links:
-    github: dein-github-name
+  skin: dark         # dark, light, auto, solarized
+  date_format: "%d.%m.%Y"
 
-# Navigationseinträge (optional)
+# Nur diese Seiten sollen in der Navigation erscheinen
 header_pages:
   - about.md
   - projects.md
 
+# RSS-Feed-Link im Footer deaktivieren
 show_rss_feed: false
