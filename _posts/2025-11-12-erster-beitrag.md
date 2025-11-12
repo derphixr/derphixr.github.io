@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Mein erster Blogbeitrag"
+title: "TLDoP Session #1"
 date: 2025-11-12 10:00:00 +0100
 categories: [Allgemein]
 ---
 
-Willkommen zu meinem ersten Blogpost 🎉  
-Dies ist ein Beispielartikel in Jekyll.
+# Anwesend:
+Sascha as Harkon
+Stevie as Lola
 
-Du kannst **Markdown**, Bilder und Links verwenden — z. B.  
+In Neverwinter wurden 
+
 [Zurück zur Startseite](/).
