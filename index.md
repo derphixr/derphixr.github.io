@@ -1,8 +1,9 @@
 ---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
 layout: home
 ---
-
-# Willkommen
-
-Dies ist meine Startseite mit dem Minima-Dark-Theme.  
-Sie erscheint **nicht** als eigener Menüpunkt, bleibt aber über den Titel oben erreichbar.
