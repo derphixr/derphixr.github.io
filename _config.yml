@@ -1,12 +1,18 @@
-title: '<a href="{{ "/" | relative_url }}">Mein Jekyll Test</a>'
-description: "Meine erste Markdown-Seite via GitHub Pages + Jekyll"
-theme: jekyll-theme-minima
+title: Mein Jekyll Test
+author: Dein Name
+email: dein.name@example.com
+description: >-
+  Eine einfache Jekyll-Seite mit dem Minima-Theme.
 
-# Navigationspunkte:
-nav:
-  - name: Start
-    link: /
-  - name: Über mich
-    link: /about
-  - name: Projekte
-    link: /projects
+theme: minima
+
+# Aktiviert Navigation + Dark Mode (ab Minima v3)
+minima:
+  skin: dark  # möglich: auto, classic, dark, solarized
+  social_links:
+    github: dein-github-name
+
+# Navigationseinträge (optional)
+header_pages:
+  - about.md
+  - projects.md
