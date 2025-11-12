@@ -36,13 +36,13 @@ permalink: /homebrew/
   - Regeneriere eine Class Ability mit Cooldown Short Rest im Verhältnis 1:1 (Hit Die:Ability)
   - Regeneriere eine Class Ability mit Cooldown Long Rest im Verhältnis 2:1 (Hit Die:Ability)
   - Regeneriere einen Spellslot in dem folgenden Verhältnis:
-   | Level | Hit Die |
-   | :---: | :-----: |
-   |  1    |    2    |
-   |  2    |    3    |
-   |  3    |    5    |
-   |  4    |    6    |
-   |  5    |    7    |
+  - | Level | Hit Die |
+    | :---: | :-----: |
+    |  1    |    2    |
+    |  2    |    3    |
+    |  3    |    5    |
+    |  4    |    6    |
+    |  5    |    7    |
       
 ### Combat:
 - **Limit Break**
