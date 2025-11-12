@@ -5,9 +5,9 @@ plugins:
   - jekyll-seo-tag   # optional, für schöne Meta-Daten (Feed deaktiviert)
   - jekyll-feed
 
-title: Mein Jekyll Test
-author: Dein Name
-description: "Meine Jekyll-Seite mit Minima Dark Theme."
+title: DND Campaign Assistant
+author: René
+description: "DND Campaign Helper Page."
 
 # Minima-Einstellungen
 minima:
@@ -18,7 +18,6 @@ minima:
 header_pages:
   - about.md
   - projects.md
-  - blog.md   # 👈 Blog-Seite hinzufügen
 
 # RSS-Feed-Link im Footer deaktivieren
 show_rss_feed: false
