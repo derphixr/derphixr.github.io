@@ -4,7 +4,9 @@ email: dein.name@example.com
 description: >-
   Eine einfache Jekyll-Seite mit dem Minima-Theme.
 
-theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 
 # Aktiviert Navigation + Dark Mode (ab Minima v3)
 minima:
