@@ -1,6 +1,8 @@
 ---
 title: Über mich
 ---
+
 # Über mich
 
-Hier steht etwas Info. Verlinkung von der Startseite: [Über mich](/about).
+Hier steht etwas über mich.  
+Zurück zur [Startseite](/).
