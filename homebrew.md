@@ -46,4 +46,5 @@ permalink: /homebrew/
       
 ### Combat:
 - **Limit Break**
-  - Brauche 1 Hit Die auf um dessen Ergebnis zu einem Würfelergebnis hinzuzufügen. (1x pro Long Rest) 
+  - Brauche 1 Hit Die auf um dessen Ergebnis zu einem Würfelergebnis hinzuzufügen. (1x pro Long Rest)
+    - Epischer Anstrich dessen gern gesehen!
