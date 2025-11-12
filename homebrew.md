@@ -6,21 +6,10 @@ permalink: /homebrew/
 
 # Crits
 Sowohl für Charaktere als auch Gegner gilt:<br>
-- Der Schaden wird normal gerollt.
-- Zusätzlich rollt man dieselbe Menge an Würfel erneut allerdings
-  - Für melee attacks: -1 Würfel pro Feature, denn dieser eine wird mit dem Maximalwert berechnet.
-  - Für caster: -X Würfel, wobei X die Hälfte der Würfel darstellt, die andere Hälfte (aufgerundet) wird mit dem Maximalwert berechnet.
-
-**Beispiele:**<br>
-**Rogue** lvl3 hat advantage, triggert dadurch Sneak attack und critted, also bspw. 1d6 + 3 (Waffe) + 2d6 für Sneak attack.<br>
-__Ergibt:__
-- 1d6 + 3 für den Waffenhit + 2d6 für Sneak attack werden gewürfelt
-- Zusätzlich: Max Waffenschaden 6 + Max Sneak attack Schaden 6 + 1d6 wird gewürfelt
-
-**Sorcerer** lvl 7 upcasted Fireball mit einem 4th level Spellslot und critted, hat somit 9d6 zu würfeln.<br>
-__Ergibt:__
-- 9d6 werden gewürfelt
-- Zusätzlich: Max Spellschaden für die Hälfte der Würfel (aufgerundet auf 5) 30 + 4d6 werden gewürfelt 
+- **Attack Roll:** Die Würfel werden doppelt gewürfelt, das höhere Ergebnis wird verdoppelt - wenn ALLE Würfel das selbe Ergebnis aufweisen, zählen ALLE Würfel.
+  - Beispiel: Rogue mit Sneakattack (1d8 + 2d6) würfelt 2d8 + 4d6 und wählt aus den 6 Würfeln die drei mit den höchsten Werten zum verdoppeln.
+- **Save:** Bei einem Critical Failure des Ziels kann der Angreifer beliebig viele der bereits gewürfelten Schadens-Würfel einmalig erneut würfeln.
+  - Beispiel: Sorcerer casted Fireball (8d6) und würfelt 1, 2, 2, 2, 4, 4, 5, 6; das Ziel würfelt eine Nat1, somit kann der Sorcerer bspw. 1, 2, 2, 2 jeweils einmal rerollen.
 
 # Intimidation
 Für Intimidation kann anstelle des CHA auch der STR modifier genutzt werden.
