@@ -6,5 +6,5 @@ permalink: /about/
 
 # Über mich
 
-Hier steht etwas über mich.  
+Ich bin ein Beispielautor und dies ist eine zusätzliche Markdown-Seite.  
 Zurück zur [Startseite](/).
