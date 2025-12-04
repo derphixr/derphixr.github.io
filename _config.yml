@@ -15,9 +15,9 @@ minima:
   date_format: "%d.%m.%Y"
 
 # Nur diese Seiten sollen in der Navigation erscheinen
-header_pages:
-  - about.md
-  - projects.md
+#header_pages:
+#  - about.md
+#  - projects.md
 
 #   Set to `true` to show excerpts on the homepage.
 show_excerpts: false
