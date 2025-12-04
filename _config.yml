@@ -18,6 +18,8 @@ minima:
 #header_pages:
 #  - about.md
 #  - projects.md
+nav_pages:
+  - homebrew.md
 
 #   Set to `true` to show excerpts on the homepage.
 show_excerpts: false
