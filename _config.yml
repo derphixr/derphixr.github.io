@@ -2,8 +2,8 @@
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
-  - jekyll-seo-tag   # optional, für schöne Meta-Daten (Feed deaktiviert)
   - jekyll-feed
+  - jekyll-seo-tag   # optional, für schöne Meta-Daten (Feed deaktiviert)
 
 title: DND Campaign Assistant
 author: René
