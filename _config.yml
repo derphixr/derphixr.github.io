@@ -22,7 +22,7 @@ nav_pages:
   - homebrew.md
 
 #   Set to `true` to show excerpts on the homepage.
-show_excerpts: false
+show_excerpts: true
 
 # RSS-Feed-Link im Footer deaktivieren
 hide_site_feed_link: true
