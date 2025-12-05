@@ -1,7 +1,8 @@
 # Verwende das aktuelle Minima-Theme direkt per Remote Theme
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
+theme: minima
 plugins:
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag   # optional, für schöne Meta-Daten (Feed deaktiviert)
 
