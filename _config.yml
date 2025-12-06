@@ -14,16 +14,15 @@ description: "DND Campaign Helper Page."
 minima:
   skin: dark         # dark, light, auto, solarized
   date_format: "%d.%m.%Y"
+  hide_site_feed_link: true
+  show_excerpts: true
+  nav_pages:
+    - homebrew.md
 
 # Nur diese Seiten sollen in der Navigation erscheinen
 #header_pages:
 #  - about.md
 #  - projects.md
-nav_pages:
-  - homebrew.md
+
 
 #   Set to `true` to show excerpts on the homepage.
-show_excerpts: true
-
-# RSS-Feed-Link im Footer deaktivieren
-hide_site_feed_link: true
