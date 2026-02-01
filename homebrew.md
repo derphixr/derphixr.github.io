@@ -34,11 +34,11 @@ permalink: /homebrew/
 ### Voraussetzung:
 Du benötigst zwingend **Thieves' Tools**.
 ### Check:
-Wenn du ein Thieves' Tools besitzt, erfolgt der Check über einen Wurf auf **Sleight of Hand**.
+Wenn du ein Thieves' Tools besitzt, rollst du einen **Sleight of Hand** Check.
 ### Proficiency:
-Wenn du entweder mit Thieves' Tools **ODER** Sleight of Hand proficient bist, rollst du den D20 ganz normal und addierst deinen Proficiency Bonus.
+Wenn du entweder mit Thieves' Tools **ODER** Sleight of Hand proficient bist, rollst du den Check ganz normal und addierst deinen Proficiency Bonus.
 ### Double Proficiency:
-Falls du mit Thieves' Tools **UND** Sleight of Hand proficient bist, rollst du den D20 mit Advantage und addierst deinen Proficiency Bonus.
+Falls du mit Thieves' Tools **UND** Sleight of Hand proficient bist, rollst du den Check mit Advantage und addierst deinen Proficiency Bonus.
 ### Expertise:
 Wenn du Expertise in Sleight of Hand hast, addierst du deinen doppelten Proficiency Bonus (bzw. nutzt einfach den bereits verdoppelten Wert deines Sleight of Hand Skills).
 
