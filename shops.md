@@ -24,7 +24,7 @@ They cater to adventurers seeking potions and the like.
 | Potion of Spell Recovery | 300 GP | | x | x | HB | 1 |
 | Elixir of Health | 250 GP | x | x | x | DMG24 | 2 |
 | Potion of Climbing | 80 GP | x | x | x | DMG24 | 3 |
-| Potion of Fire Breath | 150 GP | x | x | x | PHB24 | 2 |
+| Potion of Fire Breath | 150 GP | x | x | x | DMG24 | 2 |
 | Potion of Hill Giant Strength | 125 GP | x | x | x | DMG24 | 2 |
 | Potion of Growth | 200 GP | x | x | x | DMG24 | 2 |
 | Potion of Invisibility | 200 GP | x | x | x | DMG24 | 2 |
