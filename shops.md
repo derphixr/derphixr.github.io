@@ -30,7 +30,7 @@ They cater to adventurers seeking potions and the like.
 | Potion of Invisibility | 160 GP | x | x | x | DMG24 | 2 |
 | **Adventuring Gear** | | | | | | |
 | Acid (vial) | 25 GP | x | x | x | PHB24 | |
-| Alchemist's Fire | 50 GP | | X | X | PHB24 | |
+| Alchemist's Fire | 50 GP | | x | x | PHB24 | |
 | Antitoxin (vial) | 50 GP | x | x | x | PHB24 | |
 | Component Pouch | 25 GP | x | x | x | PHB24 | |
 | Flask | 2 CP | x | x | x | PHB24 | |
