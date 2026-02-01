@@ -16,7 +16,7 @@ Alchemists & apothecaries specialize in potions, herbs, and remedies.<br>
 These shops are filled with shelves lined with colorful bottles, drying herbs, and the scent of exotic ingredients.<br>
 They cater to adventurers seeking potions and the like.
 
-## Alchemists & Apothecaries
+## What they offer
 
 | Item | Cost | Village | Town | City | Source |
 | :--- | :--- | :---: | :---: | :---: | :--- |
@@ -45,7 +45,7 @@ They cater to adventurers seeking potions and the like.
 Armourers & blacksmiths craft and sell weapons, armour, and other related goods.<br>
 Their shops often include forges for the owners and work to ply their trade.
 
-## Armourer & Blacksmiths
+## What they offer
 
 | Item | Cost | Village | Town | City | Source |
 | :--- | :--- | :---: | :---: | :---: | :--- |
@@ -110,7 +110,7 @@ Their shops often include forges for the owners and work to ply their trade.
 General stores are shops that carry a wide variety of goods and cater as much to the general population as they do adventurers.<br>
 They offer everyday goods including clothing, pots, lighting, and tools.
 
-## General Store
+## What they offer
 
 | Item | Cost | Village | Town | City | Source |
 | :--- | :--- | :---: | :---: | :---: | :--- |
@@ -151,7 +151,7 @@ Stables provide care and housing for horses and other riding animals.<br>
 They groom and feed steeds, as well as selling riding gear and mounts.<br>
 Stables usually attached to inns and taverns.
 
-## Stable
+## What they offer
 
 | Item | Cost | Village | Town | City | Source |
 | :--- | :--- | :---: | :---: | :---: | :--- |
