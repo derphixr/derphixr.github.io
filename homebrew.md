@@ -31,7 +31,7 @@ permalink: /homebrew/
 - **Bonus Action:** Potion Ergebnis wird gewürfelt.
 
 # Lockpicking
-## Voraussetzung:
+### Voraussetzung:
 Du benötigst zwingend **Thieves' Tools**.
 ### Check:
 Wenn du ein Thieves' Tools besitzt, erfolgt der Check über einen Wurf auf **Sleight of Hand**.
