@@ -21,13 +21,13 @@ They cater to adventurers seeking potions and the like.
 | Item | Cost | Village | Town | City | Source | Stock |
 | :--- | :--- | :---: | :---: | :---: | :--- | :--- |
 | **Adabra's Specials** | | | | | | |
-| Potion of Spell Recovery | 300 GP | | x | x | HB | 1 |
-| Elixir of Health | 250 GP | x | x | x | DMG24 | 2 |
-| Potion of Climbing | 80 GP | x | x | x | DMG24 | 3 |
-| Potion of Fire Breath | 150 GP | x | x | x | DMG24 | 2 |
-| Potion of Hill Giant Strength | 125 GP | x | x | x | DMG24 | 2 |
-| Potion of Growth | 200 GP | x | x | x | DMG24 | 2 |
-| Potion of Invisibility | 200 GP | x | x | x | DMG24 | 2 |
+| Potion of Spell Recovery | 250 GP | | x | x | HB | 1 |
+| Elixir of Health | 120 GP | x | x | x | DMG24 | 2 |
+| Potion of Climbing | 75 GP | x | x | x | DMG24 | 3 |
+| Potion of Fire Breath | 120 GP | x | x | x | DMG24 | 2 |
+| Potion of Hill Giant Strength | 100 GP | x | x | x | DMG24 | 2 |
+| Potion of Growth | 160 GP | x | x | x | DMG24 | 2 |
+| Potion of Invisibility | 160 GP | x | x | x | DMG24 | 2 |
 | **Adventuring Gear** | | | | | | |
 | Acid (vial) | 25 GP | x | x | x | PHB24 | |
 | Alchemist's Fire | 50 GP | | X | X | PHB24 | |
