@@ -4,12 +4,6 @@ title: shops
 permalink: /shops/
 ---
 
-# Table of Contents
-* TOC
-{:toc}
-
----
-
 # Quicklinks:
 - [Alchemists & Apothecaries](#alchemist)
 - [Armourer & Blacksmiths](#armor)
