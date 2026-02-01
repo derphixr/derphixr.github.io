@@ -4,5 +4,5 @@ title: shops
 permalink: /shops/
 ---
 
-[Alchemists & Apothecaries](_shops/alchemist)<br>
-[Armourer & Blacksmiths](_shops/armor)
+[Alchemists & Apothecaries](_shops/alchemist.md)<br>
+[Armourer & Blacksmiths](_shops/armor.md)
