@@ -6,9 +6,9 @@ permalink: /shops/
 
 # Quicklinks:
 - <A href="#Alchemists--Apothecaries">Alchemists & Apothecaries</A>
-- [Armourer & Blacksmiths](#Armourer--Blacksmiths)
-- [General Store](#General-Store)
-- [Stable](#Stable)
+- <A href="#Armourer--Blacksmiths">Armourer & Blacksmiths</A>
+- <A href="#General-Store">General Store</A>
+- <A href="#Stable">Stable</A>
 
 # Alchemists & Apothecaries
 
