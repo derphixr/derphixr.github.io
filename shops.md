@@ -21,7 +21,7 @@ They cater to adventurers seeking potions and the like.
 | Item | Cost | Village | Town | City | Source | Stock |
 | :--- | :--- | :---: | :---: | :---: | :--- | :--- |
 | **Adabra's Specials** | | | | | | |
-| Potion of Spell Recovery | 250 GP | | x | x | HB | 1 |
+| Potion of Spell Recovery | 250 GP | | x | x | HB | 0 |
 | Elixir of Health | 120 GP | x | x | x | DMG24 | 2 |
 | Potion of Climbing | 75 GP | x | x | x | DMG24 | 3 |
 | Potion of Fire Breath | 120 GP | x | x | x | DMG24 | 2 |
