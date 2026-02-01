@@ -1,3 +1,9 @@
+---
+layout: page
+title: armor
+permalink: /armor/
+---
+
 # Armourer & Blacksmiths
 
 Armourers & blacksmiths craft and sell weapons, armour, and other related goods.<br>
