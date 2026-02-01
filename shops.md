@@ -5,9 +5,9 @@ permalink: /shops/
 ---
 
 # Quicklinks:
-- [Alchemists & Apothecaries](#Alchemists & Apothecaries)
-- [Armourer & Blacksmiths](#Armourer & Blacksmiths)
-- [General Store](#General Store)
+- [Alchemists & Apothecaries](#Alchemists-&-Apothecaries)
+- [Armourer & Blacksmiths](#Armourer-&-Blacksmiths)
+- [General Store](#General-Store)
 - [Stable](#Stable)
 
 # Alchemists & Apothecaries
