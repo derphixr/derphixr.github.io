@@ -5,12 +5,12 @@ permalink: /shops/
 ---
 
 # Quicklinks:
-- <A href="#Alchemists--Apothecaries">Alchemists & Apothecaries</A>
+- [Alchemists & Apothecaries](#alchemist)
 - <A href="#Armourer--Blacksmiths">Armourer & Blacksmiths</A>
 - <A href="#General-Store">General Store</A>
 - <A href="#Stable">Stable</A>
 
-# Alchemists & Apothecaries
+# Alchemists & Apothecaries {: #alchemist}
 
 Alchemists & apothecaries specialize in potions, herbs, and remedies.<br>
 These shops are filled with shelves lined with colorful bottles, drying herbs, and the scent of exotic ingredients.<br>
@@ -40,7 +40,7 @@ They cater to adventurers seeking potions and the like.
 | Brewer's Supplies | 20 GP | x | x | x | PHB24 |
 | Herbalism Kit | 5 GP | x | x | x | PHB24 |
 
-# Armourer & Blacksmiths
+# Armourer & Blacksmiths {: #armor}
 
 Armourers & blacksmiths craft and sell weapons, armour, and other related goods.<br>
 Their shops often include forges for the owners and work to ply their trade.
@@ -105,7 +105,7 @@ Their shops often include forges for the owners and work to ply their trade.
 | Warhammer | 15 GP | x | x | x | PHB24 |
 | War Pick | 5 GP | x | x | x | PHB24 |
 
-# General Store
+# General Store {: #general}
 
 General stores are shops that carry a wide variety of goods and cater as much to the general population as they do adventurers.<br>
 They offer everyday goods including clothing, pots, lighting, and tools.
@@ -145,7 +145,7 @@ They offer everyday goods including clothing, pots, lighting, and tools.
 | Rations | 5 SP | x | x | x | PHB24 |
 | Sack | 1 SP | x
 
-# Stable
+# Stable {: #stable}
 
 Stables provide care and housing for horses and other riding animals.<br>
 They groom and feed steeds, as well as selling riding gear and mounts.<br>
