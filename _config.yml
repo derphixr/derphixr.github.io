@@ -5,6 +5,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag   # optional, für schöne Meta-Daten (Feed deaktiviert)
+  - jekyll-toc
 
 title: DND Campaign Assistant
 author: René
