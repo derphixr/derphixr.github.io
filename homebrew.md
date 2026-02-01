@@ -27,8 +27,7 @@ permalink: /homebrew/
 - **Material component mit Goldkosten:** Materialkosten können entweder wie beschrieben oder in Gold bezahlt werden.
 
 # Potions
-- **Action:** Potion erzielt das maximale Ergebnis.
-- **Bonus Action:** Potion Ergebnis wird gewürfelt.
+- **Healing Potion:** Wenn für eine Healing Potion (Selbst oder Ziel) eine Action verwendet wird, heilt sie den Maximalwert.
 
 # Lockpicking
 ### Voraussetzung:
