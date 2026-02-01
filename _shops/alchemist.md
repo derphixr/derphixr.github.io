@@ -1,3 +1,9 @@
+---
+layout: page
+title: alchemist
+permalink: /alchemist/
+---
+
 # Alchemists & Apothecaries
 
 Alchemists & apothecaries specialize in potions, herbs, and remedies.<br>
