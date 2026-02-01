@@ -18,27 +18,35 @@ They cater to adventurers seeking potions and the like.
 
 ## What they offer
 
-| Item | Cost | Village | Town | City | Source |
-| :--- | :--- | :---: | :---: | :---: | :--- |
-| **Adventuring Gear** | | | | | |
-| Acid (vial) | 25 GP | x | x | x | PHB24 |
-| Alchemist's Fire | 50 GP | | X | X | PHB24 |
-| Antitoxin (vial) | 50 GP | x | x | x | PHB24 |
-| Component Pouch | 25 GP | x | x | x | PHB24 |
-| Flask | 2 CP | x | x | x | PHB24 |
-| Oil | 1 SP | x | x | x | PHB24 |
-| Perfume | 5 GP | x | x | x | PHB24 |
-| Poison, Basic | 100 GP | | x | x | PHB24 |
-| Potion of Healing | 50 GP | x | x | x | PHB24 |
-| Potion of Healing (greater) | 200 GP | | x | x | DMG24 |
-| Potion of Healing (superior) | 1000 GP | | x | x | DMG24 |
-| Potion of Healing (supreme) | 5000 GP | | | x | DMG24 |
-| Pouch | 5 SP | x | x | x | PHB24 |
-| Vial | 1 GP | x | x | x | PHB24 |
-| **Tools** | | | | | |
-| Alchemist's Supplies | 50 GP | | x | x | PHB24 |
-| Brewer's Supplies | 20 GP | x | x | x | PHB24 |
-| Herbalism Kit | 5 GP | x | x | x | PHB24 |
+| Item | Cost | Village | Town | City | Source | Stock |
+| :--- | :--- | :---: | :---: | :---: | :--- | :--- |
+| **Adabra's Specials** | | | | | | |
+| Potion of Spell Recovery | 300 GP | | x | x | HB | 1 |
+| Elixir of Health | 250 GP | x | x | x | DMG24 | 2 |
+| Potion of Climbing | 80 GP | x | x | x | DMG24 | 3 |
+| Potion of Fire Breath | 150 GP | x | x | x | PHB24 | 2 |
+| Potion of Hill Giant Strength | 125 GP | x | x | x | DMG24 | 2 |
+| Potion of Growth | 200 GP | x | x | x | DMG24 | 2 |
+| Potion of Invisibility | 200 GP | x | x | x | DMG24 | 2 |
+| **Adventuring Gear** | | | | | | |
+| Acid (vial) | 25 GP | x | x | x | PHB24 | |
+| Alchemist's Fire | 50 GP | | X | X | PHB24 | |
+| Antitoxin (vial) | 50 GP | x | x | x | PHB24 | |
+| Component Pouch | 25 GP | x | x | x | PHB24 | |
+| Flask | 2 CP | x | x | x | PHB24 | |
+| Oil | 1 SP | x | x | x | PHB24 | |
+| Perfume | 5 GP | x | x | x | PHB24 | |
+| Poison, Basic | 100 GP | | x | x | PHB24 | |
+| Potion of Healing | 50 GP | x | x | x | PHB24 | |
+| Potion of Healing (greater) | 200 GP | | x | x | DMG24 | |
+| Potion of Healing (superior) | 1000 GP | | x | x | DMG24 | |
+| Potion of Healing (supreme) | 5000 GP | | | x | DMG24 | |
+| Pouch | 5 SP | x | x | x | PHB24 | |
+| Vial | 1 GP | x | x | x | PHB24 | |
+| **Tools** | | | | | | |
+| Alchemist's Supplies | 50 GP | | x | x | PHB24 | |
+| Brewer's Supplies | 20 GP | x | x | x | PHB24 | |
+| Herbalism Kit | 5 GP | x | x | x | PHB24 | |
 
 <h1 id="armor">Armourer & Blacksmiths</h1>
 
