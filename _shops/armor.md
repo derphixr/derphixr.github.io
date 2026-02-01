@@ -1,6 +1,7 @@
 # Armourer & Blacksmiths
 
-Armourers & blacksmiths craft and sell weapons, armour, and other related goods. Their shops often include forges for the owners and work to ply their trade.
+Armourers & blacksmiths craft and sell weapons, armour, and other related goods.<br>
+Their shops often include forges for the owners and work to ply their trade.
 
 ## Armourer & Blacksmiths
 
