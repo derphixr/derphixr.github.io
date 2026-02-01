@@ -20,7 +20,7 @@ minima:
 #header_pages:
   nav_pages:
     - homebrew.md
-#   - about.md
+    - shops.md
 #   - projects.md
 
 #   Set to `true` to show excerpts on the homepage.
