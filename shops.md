@@ -4,6 +4,12 @@ title: shops
 permalink: /shops/
 ---
 
+# Quicklinks:
+- [Alchemists & Apothecaries](#Alchemists & Apothecaries)
+- [Armourer & Blacksmiths](#Armourer & Blacksmiths)
+- [General Store](#General Store)
+- [Stable](#Stable)
+
 # Alchemists & Apothecaries
 
 Alchemists & apothecaries specialize in potions, herbs, and remedies.<br>
@@ -141,7 +147,9 @@ They offer everyday goods including clothing, pots, lighting, and tools.
 
 # Stable
 
-Stables provide care and housing for horses and other riding animals. They groom and feed steeds, as well as selling riding gear and mounts. Stables usually attached to inns and taverns.
+Stables provide care and housing for horses and other riding animals.<br>
+They groom and feed steeds, as well as selling riding gear and mounts.<br>
+Stables usually attached to inns and taverns.
 
 ## Stable
 
