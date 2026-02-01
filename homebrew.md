@@ -27,7 +27,7 @@ permalink: /homebrew/
 - **Material component mit Goldkosten:** Materialkosten können entweder wie beschrieben oder in Gold bezahlt werden.
 
 # Potions
-- **Healing Potion:** Wenn für eine Healing Potion (Selbst oder Ziel) eine Action verwendet wird, heilt sie den Maximalwert.
+- **Potion of Healing:** Wenn für eine Potion of Healing (Selbst oder Ziel) eine Action verwendet wird, heilt sie den Maximalwert.
 
 # Lockpicking
 ### Voraussetzung:
