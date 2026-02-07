@@ -28,7 +28,7 @@ They cater to adventurers seeking potions and the like.
 | Potion of Hill Giant Strength | 100 GP | x | x | x | DMG24 | 2 |
 | Potion of Growth | 160 GP | x | x | x | DMG24 | 2 |
 | Potion of Invisibility | 160 GP | x | x | x | DMG24 | 2 |
-| Potion of Water Breathing | 30 GP | x | x | x | DMG24 | 4 |
+| Potion of Water Breathing | 25 GP | x | x | x | DMG24 | 4 |
 | **Adventuring Gear** | | | | | | |
 | Acid (vial) | 25 GP | x | x | x | PHB24 | |
 | Alchemist's Fire | 50 GP | | x | x | PHB24 | |
