@@ -22,13 +22,13 @@ They cater to adventurers seeking potions and the like.
 | :--- | :--- | :---: | :---: | :---: | :--- | :--- |
 | **Adabra's Specials** | | | | | | |
 | [Potion of Spell Recovery](https://www.dndbeyond.com/magic-items/2663443-potion-of-spell-recovery) | 250 GP | | x | x | HB | 0 |
-| Elixir of Health | 120 GP | x | x | x | DMG24 | 2 |
-| Potion of Climbing | 75 GP | x | x | x | DMG24 | 3 |
-| Potion of Fire Breath | 120 GP | x | x | x | DMG24 | 2 |
-| Potion of Hill Giant Strength | 100 GP | x | x | x | DMG24 | 2 |
-| Potion of Growth | 160 GP | x | x | x | DMG24 | 2 |
-| Potion of Invisibility | 160 GP | x | x | x | DMG24 | 2 |
-| Potion of Water Breathing | 25 GP | x | x | x | DMG24 | 4 |
+| [Elixir of Health](https://www.dndbeyond.com/magic-items/5351-elixir-of-health) | 120 GP | x | x | x | DMG24 | 2 |
+| [Potion of Climbing](https://www.dndbeyond.com/magic-items/4702-potion-of-climbing) | 75 GP | x | x | x | DMG24 | 3 |
+| [Potion of Fire Breath](https://www.dndbeyond.com/magic-items/5357-potion-of-fire-breath) | 120 GP | x | x | x | DMG24 | 2 |
+| [Potion of Hill Giant Strength](https://www.dndbeyond.com/magic-items/4706-potion-of-hill-giant-strength) | 100 GP | x | x | x | DMG24 | 2 |
+| [Potion of Growth](https://www.dndbeyond.com/magic-items/9805016-potion-of-growth) | 160 GP | x | x | x | DMG24 | 2 |
+| [Potion of Invisibility](https://www.dndbeyond.com/magic-items/9228935-potion-of-invisibility) | 160 GP | x | x | x | DMG24 | 2 |
+| [Potion of Water Breathing](https://www.dndbeyond.com/magic-items/9228940-potion-of-water-breathing) | 25 GP | x | x | x | DMG24 | 4 |
 | **Adventuring Gear** | | | | | | |
 | Acid (vial) | 25 GP | x | x | x | PHB24 | |
 | Alchemist's Fire | 50 GP | | x | x | PHB24 | |
