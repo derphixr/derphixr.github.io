@@ -45,9 +45,9 @@ They cater to adventurers seeking potions and the like.
 | [Pouch](https://www.dndbeyond.com/equipment/403-pouch) | 5 SP | x | x | x | PHB24 | |
 | [Vial](https://www.dndbeyond.com/equipment/440-vial) | 1 GP | x | x | x | PHB24 | |
 | **Tools** | | | | | | |
-| Alchemist's Supplies | 50 GP | | x | x | PHB24 | |
-| Brewer's Supplies | 20 GP | x | x | x | PHB24 | |
-| Herbalism Kit | 5 GP | x | x | x | PHB24 | |
+| [Alchemist's Supplies](https://www.dndbeyond.com/equipment/397-alchemists-supplies) | 50 GP | | x | x | PHB24 | |
+| [Brewer's Supplies](https://www.dndbeyond.com/equipment/402-brewers-supplies) | 20 GP | x | x | x | PHB24 | |
+| [Herbalism Kit](https://www.dndbeyond.com/equipment/460-herbalism-kit) | 5 GP | x | x | x | PHB24 | |
 
 <h1 id="armor">Armourer & Blacksmiths</h1>
 
