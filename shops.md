@@ -30,20 +30,20 @@ They cater to adventurers seeking potions and the like.
 | [Potion of Invisibility](https://www.dndbeyond.com/magic-items/9228935-potion-of-invisibility) | 160 GP | x | x | x | DMG24 | 2 |
 | [Potion of Water Breathing](https://www.dndbeyond.com/magic-items/9228940-potion-of-water-breathing) | 25 GP | x | x | x | DMG24 | 4 |
 | **Adventuring Gear** | | | | | | |
-| Acid (vial) | 25 GP | x | x | x | PHB24 | |
-| Alchemist's Fire | 50 GP | | x | x | PHB24 | |
-| Antitoxin (vial) | 50 GP | x | x | x | PHB24 | |
-| Component Pouch | 25 GP | x | x | x | PHB24 | |
-| Flask | 2 CP | x | x | x | PHB24 | |
-| Oil | 1 SP | x | x | x | PHB24 | |
-| Perfume | 5 GP | x | x | x | PHB24 | |
-| Poison, Basic | 100 GP | | x | x | PHB24 | |
-| Potion of Healing | 50 GP | x | x | x | PHB24 | |
-| Potion of Healing (greater) | 200 GP | | x | x | DMG24 | |
-| Potion of Healing (superior) | 1000 GP | | x | x | DMG24 | |
-| Potion of Healing (supreme) | 5000 GP | | | x | DMG24 | |
-| Pouch | 5 SP | x | x | x | PHB24 | |
-| Vial | 1 GP | x | x | x | PHB24 | |
+| [Acid (vial)](https://www.dndbeyond.com/equipment/500-acid) | 25 GP | x | x | x | PHB24 | |
+| [Alchemist's Fire](https://www.dndbeyond.com/equipment/504-alchemists-fire) | 50 GP | | x | x | PHB24 | |
+| [Antitoxin (vial)](https://www.dndbeyond.com/equipment/520-antitoxin) | 50 GP | x | x | x | PHB24 | |
+| [Component Pouch](https://www.dndbeyond.com/equipment/538-component-pouch) | 25 GP | x | x | x | PHB24 | |
+| [Flask](https://www.dndbeyond.com/equipment/519-flask) | 2 CP | x | x | x | PHB24 | |
+| [Oil](https://www.dndbeyond.com/equipment/393-oil) | 1 SP | x | x | x | PHB24 | |
+| [Perfume](https://www.dndbeyond.com/equipment/396-perfume) | 5 GP | x | x | x | PHB24 | |
+| [Poison, Basic](https://www.dndbeyond.com/equipment/398-basic-poison) | 100 GP | | x | x | PHB24 | |
+| [Potion of Healing](https://www.dndbeyond.com/magic-items/8960641-potion-of-healing) | 50 GP | x | x | x | PHB24 | |
+| [Potion of Healing (greater)](https://www.dndbeyond.com/magic-items/5133-potion-of-healing-greater) | 200 GP | | x | x | DMG24 | |
+| [Potion of Healing (superior)](https://www.dndbeyond.com/magic-items/5134-potion-of-healing-superior) | 1000 GP | | x | x | DMG24 | |
+| [Potion of Healing (supreme)](https://www.dndbeyond.com/magic-items/5135-potion-of-healing-supreme) | 5000 GP | | | x | DMG24 | |
+| [Pouch](https://www.dndbeyond.com/equipment/403-pouch) | 5 SP | x | x | x | PHB24 | |
+| [Vial](https://www.dndbeyond.com/equipment/440-vial) | 1 GP | x | x | x | PHB24 | |
 | **Tools** | | | | | | |
 | Alchemist's Supplies | 50 GP | | x | x | PHB24 | |
 | Brewer's Supplies | 20 GP | x | x | x | PHB24 | |
