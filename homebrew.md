@@ -5,7 +5,7 @@ permalink: /homebrew/
 ---
 
 # Limit Break Die
-- Zum Start jeder Session bekommen alle Spieler EINEN d10 den sie jederzeit zu einem Roll ihrer Wahl hinzufügen können.
+- Zum Start jeder Session bekommen alle Spieler EINEN d10 den sie IN DIESER Session jederzeit zu einem Roll ihrer Wahl hinzufügen können.
 - Der Bonus für den Roll verwendete Ability Score des jeweiligen Spielers setzt dafür das Minimum des Ergebnisses (WIS +3 -> WIS Save -> Kann nicht unter 3 rollen), mindestens 0 (z.B. bei INT -1).
 - Wenn kein Ability Score verwendet wird, gilt der Proficiency Bonus als Minimum.
 - Die einzige Voraussetzung ist, roleplaytechnisch zu beschreiben, wie das Limit ausgelöst und der extra Roll gerechtfertigt wird.
