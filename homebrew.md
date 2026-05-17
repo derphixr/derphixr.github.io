@@ -4,6 +4,10 @@ title: homebrew
 permalink: /homebrew/
 ---
 
+# Limit Break Die
+- Zum Start jeder Session bekommen alle Spieler EINEN d10 den sie jederzeit zu einem Roll ihrer Wahl hinzufügen können.
+- Die einzige Voraussetzung ist, roleplaytechnisch zu beschreiben, wie das Limit ausgelöst und der extra Roll gerechtfertigt wird.
+
 # Crits
 **Sowohl für Charaktere als auch Gegner gilt:**
 ### Attack Roll
@@ -55,7 +59,3 @@ Wenn du Expertise in Sleight of Hand hast, addierst du deinen doppelten Proficie
     |  4    |    6    |
     |  5    |    7    |
       
-### Combat:
-- **Limit Break**
-  - Brauche 1 Hit Die auf um dessen Ergebnis zu einem Würfelergebnis hinzuzufügen. (1x pro Long Rest)
-    - Epischer Anstrich dessen gern gesehen!
