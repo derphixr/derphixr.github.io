@@ -1,34 +1,33 @@
 ---
 layout: page
-title: undecided
+title: Crawler Combat-Cheatsheet
 permalink: /crawlerhelper/
 ---
 
-# Crawler Combat-Cheatsheet
-## <code style="color : darkorange">Interrupt-Phase</code>
-### Evade:
+# <code style="color : darkorange">Interrupt-Phase</code>
+## Evade:
 Für jeden kommenden Angriff muss ein separater **Evade Check** durchgeführt werden (Schwierigkeit basierend auf dem Angriffswert des Gegners); erfolgreiches Ausweichen bei Flächenangriffen halbiert den Schaden.
-### Intervene:
+## Intervene:
 Eine Aktion und 1d6 ausgeben, um das Ergebnis zu einem bereits angekündigten d20-Wurf eines Verbündeten zu addieren (ausgenommen Attributswürfe).
-### Catcher:
+## Catcher:
 Den Treffer für einen benachbarten Verbündeten abfangen und gegebenenfalls per **Step** in Position gehen; das abgefangene Ziel kann nicht pariert/ausgewichen werden.
-### Healing:
+## Healing:
 Einen Heilzauber oder Gegenstand vor dem gegnerischen Schaden anwenden oder in der Aktionsphase mit eines Checks (wie **First Aid**) nutzen.
-### Taunt:
+## Taunt:
 Einen **INT-Opposed Taunt Skill Check** gewinnen, um den Angriff des Gegners auf sich selbst zu lenken, optional gefolgt von einer weiteren Aktion zum Ausweichen.
 
-## <code style="color : orangered">Action-Phase</code
-### Attack:
+# <code style="color : orangered">Action-Phase</code
+## Attack:
 Angreifen mit Händen, Füßen, Nah- oder Fernkampfwaffen (Hotlist-Waffenwechsel inklusive) oder Zaubern. Ziel in Reichweite wählen, Modifikatoren ermitteln und Waffenfertigkeitswurf ausführen.
-### Cast a Spell:
+## Cast a Spell:
 Eine Aktion für Nicht-Angriffszauber aufwenden, Manakosten bezahlen und Hotlist-Regeln beachten.
-### Make a Check:
+## Make a Check:
 Eine Aktion für den Einsatz von Nicht-Angriffsfertigkeiten im Kampf aufwenden (vom Spielleiter geforderte Checks kosten oft keine Aktion).
-### Look for Clues:
+## Look for Clues:
 Eine auf Perception oder Investigation basierende Spezialprobe im Kampf, um Infos über Bosse oder die Umgebung zu sammeln.
-### Healing:
+## Healing:
 Heilung durch Erste Hilfe oder andere Methoden über die Aktion „Make a Check“ anwenden.
-### Non-Skill Actions: Aktionen ohne Fertigkeitswurf, darunter:
+## Non-Skill Actions: Aktionen ohne Fertigkeitswurf, darunter:
 <ul>
   <li><strong>Call a Play:</strong> Aktion vorschlagen, 2d6 werfen (höherer Würfel) und den Bonus auf den Wurf oder Schaden des Verbündeten anrechnen.</li>
   <li><strong>Intervene:</strong> In der Aktionsphase aushelfen.</li>
