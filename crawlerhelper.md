@@ -22,7 +22,7 @@ Angreifen mit Händen, Füßen, Nah- oder Fernkampfwaffen (Hotlist-Waffenwechsel
 ## Cast a Spell:
 Eine Aktion für Nicht-Angriffszauber aufwenden, Manakosten bezahlen und Hotlist-Regeln beachten.
 ## Make a Check:
-Eine Aktion für den Einsatz von Nicht-Angriffsfertigkeiten im Kampf aufwenden (vom Spielleiter geforderte Checks kosten oft keine Aktion).
+Eine Aktion für den Einsatz von Nicht-Angriffsfertigkeiten im Kampf aufwenden (von der AI geforderte Checks kosten oft keine Aktion).
 ## Look for Clues:
 Eine auf Perception oder Investigation basierende Spezialprobe im Kampf, um Infos über Bosse oder die Umgebung zu sammeln.
 ## Healing:
