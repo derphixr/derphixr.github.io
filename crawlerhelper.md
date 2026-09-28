@@ -5,7 +5,7 @@ permalink: /crawlerhelper/
 ---
 
 # Crawler Combat-Cheatsheet
-## Interrupt-Phase
+## <code style="color : darkorange">Interrupt-Phase</code>
 ### Evade:
 Für jeden kommenden Angriff muss ein separater **Evade Check** durchgeführt werden (Schwierigkeit basierend auf dem Angriffswert des Gegners); erfolgreiches Ausweichen bei Flächenangriffen halbiert den Schaden.
 ### Intervene:
@@ -17,7 +17,7 @@ Einen Heilzauber oder Gegenstand vor dem gegnerischen Schaden anwenden oder in d
 ### Taunt:
 Einen **INT-Opposed Taunt Skill Check** gewinnen, um den Angriff des Gegners auf sich selbst zu lenken, optional gefolgt von einer weiteren Aktion zum Ausweichen.
 
-## Action-Phase
+## <code style="color : orangered">Action-Phase</code>
 ### Attack:
 Angreifen mit Händen, Füßen, Nah- oder Fernkampfwaffen (Hotlist-Waffenwechsel inklusive) oder Zaubern. Ziel in Reichweite wählen, Modifikatoren ermitteln und Waffenfertigkeitswurf ausführen.
 ### Cast a Spell:
