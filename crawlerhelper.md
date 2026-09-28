@@ -6,7 +6,7 @@ permalink: /crawlerhelper/
 
 # Crawler Combat-Cheatsheet
 ## Interrupt-Phase
-### Evade
+### Evade:
 Für jeden kommenden Angriff muss ein separater **Evade Check** durchgeführt werden (Schwierigkeit basierend auf dem Angriffswert des Gegners); erfolgreiches Ausweichen bei Flächenangriffen halbiert den Schaden.
 ### Intervene:
 Eine Aktion und 1d6 ausgeben, um das Ergebnis zu einem bereits angekündigten d20-Wurf eines Verbündeten zu addieren (ausgenommen Attributswürfe).
@@ -30,9 +30,9 @@ Eine auf Wahrnehmung oder Untersuchung basierende Spezialprobe im Kampf, um Info
 Heilung durch Erste Hilfe oder andere Methoden über die Aktion „Make a Check“ anwenden.
 ### Non-Skill Actions: Aktionen ohne Fertigkeitswurf, darunter:
 <ul>
-  <li>**Call a Play:** Aktion vorschlagen, 2d6 werfen (höherer Würfel) und den Bonus auf den Wurf oder Schaden des Verbündeten anrechnen.</li>
-  <li>**Intervene:** In der Aktionsphase aushelfen.</li>
-  <li>**Move:** Bis zum Bewegungslimit laufen + Step.</li>
-  <li>**Retrieve:** Gegenstand aus dem Inventar holen oder zur Hotlist hinzufügen (nicht in derselben Runde nutzbar).</li>
-  <li>**Use a Hotlist Item:** Verbrauchbares Item aus der Hotlist einsetzen oder Gegenstand wechseln.</li>
+  <li><strong>Call a Play:</strong> Aktion vorschlagen, 2d6 werfen (höherer Würfel) und den Bonus auf den Wurf oder Schaden des Verbündeten anrechnen.</li>
+  <li><strong>Intervene:</strong> In der Aktionsphase aushelfen.</li>
+  <li><strong>Move:</strong> Bis zum Bewegungslimit laufen + Step.</li>
+  <li><strong>Retrieve:</strong> Gegenstand aus dem Inventar holen oder zur Hotlist hinzufügen (nicht in derselben Runde nutzbar).</li>
+  <li><strong>Use a Hotlist Item:</strong> Verbrauchbares Item aus der Hotlist einsetzen oder Gegenstand wechseln.</li>
 </ul>
