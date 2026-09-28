@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Crawler Combat-Cheatsheet
+title: crawlerhelper
 permalink: /crawlerhelper/
 ---
 
