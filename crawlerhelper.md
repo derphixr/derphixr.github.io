@@ -27,9 +27,9 @@ Eine Aktion für den Einsatz von Nicht-Angriffsfertigkeiten im Kampf aufwenden (
 Eine auf Perception oder Investigation basierende Spezialprobe im Kampf, um Infos über Bosse oder die Umgebung zu sammeln.
 ## Healing:
 Heilung durch Erste Hilfe oder andere Methoden über die Aktion „Make a Check“ anwenden.
-## Non-Skill Actions: Aktionen ohne Fertigkeitswurf, darunter:
+## Non-Skill Actions:
 <ul>
-  <li><strong>Call a Play:</strong> Aktion vorschlagen, 2d6 werfen (höherer Würfel) und den Bonus auf den Wurf oder Schaden des Verbündeten anrechnen.</li>
+  <li><strong>Call a Play:</strong> Aktion vorschlagen, 2d6 werfen (Advantage) und den Bonus auf den Wurf oder Schaden des Verbündeten anrechnen.</li>
   <li><strong>Intervene:</strong> In der Aktionsphase aushelfen.</li>
   <li><strong>Move:</strong> Bis zum Bewegungslimit laufen + Step.</li>
   <li><strong>Retrieve:</strong> Gegenstand aus dem Inventar holen oder zur Hotlist hinzufügen (nicht in derselben Runde nutzbar).</li>
