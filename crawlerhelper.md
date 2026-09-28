@@ -16,7 +16,7 @@ Einen Heilzauber oder Gegenstand vor dem gegnerischen Schaden anwenden oder in d
 ## Taunt:
 Einen **INT-Opposed Taunt Skill Check** gewinnen, um den Angriff des Gegners auf sich selbst zu lenken, optional gefolgt von einer weiteren Aktion zum Ausweichen.
 
-# <code style="color : orangered">Action-Phase</code
+# <code style="color : orangered">Action-Phase</code>
 ## Attack:
 Angreifen mit Händen, Füßen, Nah- oder Fernkampfwaffen (Hotlist-Waffenwechsel inklusive) oder Zaubern. Ziel in Reichweite wählen, Modifikatoren ermitteln und Waffenfertigkeitswurf ausführen.
 ## Cast a Spell:
